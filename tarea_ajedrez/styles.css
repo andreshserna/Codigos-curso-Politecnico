@@ -1,0 +1,32 @@
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 640px;
+    height: 640px;
+    border: 25px solid black;
+}
+
+.box{
+    background-color: aqua;
+    width: 80px;
+    height: 80px;
+}
+
+.white{
+    background-color: #fff;
+}
+
+.black{
+    background-color: #999;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 79px;
+}
